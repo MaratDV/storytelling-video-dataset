@@ -15,10 +15,13 @@ This dataset contains high-quality video recordings of **700 native Russian spea
 - Commercial usage rights secured
 - Includes age and gender metadata
 
+
 ## 📊 Sample
-- See: [`sample_video_dataset_100_participants.csv`](sample_video_dataset_100_participants.csv)
-- Screenshots: [`storytelling_dataset_updated_screenshots.zip`](storytelling_dataset_updated_screenshots.zip)
-- Preview PDF: [`Storytelling_Dataset_Presentation_FINAL_v2.pdf`](Storytelling_Dataset_Presentation_FINAL_v2.pdf)
+
+- See sample: [sample_video_dataset_100_participants.csv](sample_video_dataset_100_participants.csv)
+- Screenshots: [1.png](1.png), [2.png](2.png), [3.png](3.png), [4.png](4.png), [5.jpg](5.jpg), [cover.jpg](cover.jpg)
+- Preview PDF: [storytelling_dataset_license_agreement.pdf](storytelling_dataset_license_agreement.pdf)
+
 
 ## 🔍 Use Cases
 - Multimodal model training
