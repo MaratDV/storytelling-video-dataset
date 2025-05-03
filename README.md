@@ -17,7 +17,12 @@ This dataset contains high-quality video recordings of **700 native Russian spea
 
 
 ## 📊 Sample
+## 📺 Preview Video (10 Participants)
 
+To get a quick impression of the dataset, watch this short compilation video (hosted on Google Drive):
+
+🔗 **[Watch Preview (Google Drive)](https://drive.google.com/drive/folders/1QtC2il-Qb62nZNJlOtG8WvOf-SSkSGM-?usp=sharing)**
+This sample includes 10 different native Russian speakers, each telling unscripted personal stories with visible gestures, emotions, and clear speech.
 - See sample: [sample_video_dataset_100_participants.csv](sample_video_dataset_100_participants.csv)
 - Screenshots: [1.png](1.png), [2.png](2.png), [3.png](3.png), [4.png](4.png), [5.jpg](5.jpg), [cover.jpg](cover.jpg)
 - Preview PDF: [storytelling_dataset_license_agreement.pdf](storytelling_dataset_license_agreement.pdf)
